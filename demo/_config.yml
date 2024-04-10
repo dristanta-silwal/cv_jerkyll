@@ -1,30 +1,30 @@
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: Dristanta Silwal
+description: CV
 baseurl: ""
 url: https://piazzai.github.io/cvless
 
 theme: cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: online CV
+tagshort: CV
 
 # author settings
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Dristanta Silwal
+  email: dristantasilwal003@gmail.com
 photo: assets/files/photo.jpg
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+address: Moscow, Idaho
+phone: +1 512 956 1935
 
 # social media links
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  x: username
+  facebook: dristanta.silwal
+  github: dristanta-silwal
+  instagram: silwal_dris
+  linkedin: dristantasilwal
+  stackoverflow: 20097636/dristanta-silwal
+  x: Dristanta
 
 # build settings
 permalink: pretty

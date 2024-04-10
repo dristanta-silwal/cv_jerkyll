@@ -1,7 +1,8 @@
-title: ""
-description: ""
+title: "Dristanta Silwal"
+description: "This website contains CV of Dristanta Silwal"
 baseurl: ""
 url: ""
+theme: "cvless"
 
 exclude:
   - demo/

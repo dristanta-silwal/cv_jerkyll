@@ -1,18 +1,148 @@
----
-layout: home
-title: Home
----
+<!DOCTYPE html>
+<html lang="en">
 
-# About
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  <title>
+    Dristanta Silwal    
+  </title>
 
-This is the home page. It can be used for a short introduction. [Click here](cv) to see the full CV, and [here](assets/files/cv.pdf) to download a print version. The theme also ships with a blog: [click here](posts) to scroll posts from the most recent. Finally, [click here](404) to see a page that can't be found.
+  <link rel="stylesheet" href="https://piazzai.github.io/cvless/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://piazzai.github.io/cvless/assets/css/open-color.min.css">
+  <link rel="stylesheet" href="https://piazzai.github.io/cvless/assets/css/syntax.css">
+  <link rel="stylesheet" href="https://piazzai.github.io/cvless/assets/css/styles.min.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://piazzai.github.io/cvless/assets/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://piazzai.github.io/cvless/assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://piazzai.github.io/cvless/assets/favicon-16x16.png">
+  <link rel="manifest" href="https://piazzai.github.io/cvless/assets/site.webmanifest">
+  <link rel="alternate" type="application/atom+xml" title="cvless" href="https://piazzai.github.io/cvless/atom.xml">
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+  <meta name="generator" content="Jekyll v4.3.3" />
+  <meta property="og:title" content="Home" />
+  <meta name="author" content="Dristanta Silwal" />
+  <meta property="og:locale" content="en_US" />
+  <meta name="description" content="Jekyll theme for a beautiful online CV" />
+  <meta property="og:description" content="Jekyll theme for a beautiful online CV" />
+  <link rel="canonical" href="https://piazzai.github.io/cvless/" />
+  <meta property="og:url" content="https://piazzai.github.io/cvless/" />
+  <meta property="og:site_name" content="cvless" />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary" />
+  <meta property="twitter:title" content="Home" />
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "author": {
+        "@type": "Person",
+        "name": "Dristanta Silwal"
+      },
+      "description": "Jekyll theme for a beautiful online CV",
+      "headline": "Home",
+      "name": "cvless",
+      "url": "https://piazzai.github.io/cvless/"
+    }
+  </script>
+  <!-- End Jekyll SEO tag -->
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</head>
 
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
+<body>
 
-{% include archive.html %}
+  <div id="particles-js" class="fullscreen">
+    <div class="jumbotron text-center">
+      <img class="particles-photo" src="assets/files/photo.jpg" />
+      <h1 class="particles-title">Dristanta Silwal</h1>
+      <h1 class="particles-subtitle">Here are my social media links</h1>
+      <div class="nowrap">
+        <a class="particles-icon" href="https://www.facebook.com/dristanta.silwal"><svg width="24px" height="24px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#000000"><path d="M17 2h-3a5 5 0 00-5 5v3H6v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3V2z" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+        </a>
+        <a class="particles-icon" href="https://twitter.com/@Dristanta"><svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="1.5" fill="none" xmlns="http://www.w3.org/2000/svg" color="#000000"><path d="M16.8198 20.7684L3.75317 3.96836C3.44664 3.57425 3.72749 3 4.22678 3H6.70655C6.8917 3 7.06649 3.08548 7.18016 3.23164L20.2468 20.0316C20.5534 20.4258 20.2725 21 19.7732 21H17.2935C17.1083 21 16.9335 20.9145 16.8198 20.7684Z" stroke="#000000" stroke-width="1.5"></path><path d="M20 3L4 21" stroke="#000000" stroke-width="1.5" stroke-linecap="round"></path></svg>
+        </a>
+        <a class="particles-icon" href="https://www.instagram.com/silwal_dris"><svg width="24px" height="24px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#000000"><path d="M12 16a4 4 0 100-8 4 4 0 000 8z" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M3 16V8a5 5 0 015-5h8a5 5 0 015 5v8a5 5 0 01-5 5H8a5 5 0 01-5-5z" stroke="#000000" stroke-width="1.5"></path><path d="M17.5 6.51l.01-.011" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+        </a>
+        <a class="particles-icon" href="https://www.linkedin.com/in/dristantasilwal"><svg width="24px" height="24px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#000000"><path d="M21 8v8a5 5 0 01-5 5H8a5 5 0 01-5-5V8a5 5 0 015-5h8a5 5 0 015 5zM7 17v-7" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M11 17v-3.25M11 10v3.75m0 0c0-3.75 6-3.75 6 0V17M7 7.01l.01-.011" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+        </a>
+        <a class="particles-icon" href="https://stackoverflow.com/users/20097636/dristanta-silwal"><svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="1.5" fill="none" xmlns="http://www.w3.org/2000/svg" color="#000000"><path d="M19 15v6H5v-6M16 17H8M15.913 14.663L8.087 13M16.713 12.38L9.463 9M18.173 10.642L12.044 5.5M20.034 8.804L15.109 2.5" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+        </a>
+        <a class="particles-icon" href="https://github.com/dristanta-silwal"><svg width="24px" height="24px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#000000"><path d="M16 22.027v-2.87a3.37 3.37 0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7a5.44 5.44 0 00-1.5-3.75 5.07 5.07 0 00-.09-3.77s-1.18-.35-3.91 1.48a13.38 13.38 0 00-7 0c-2.73-1.83-3.91-1.48-3.91-1.48A5.07 5.07 0 005 5.797a5.44 5.44 0 00-1.5 3.78c0 5.42 3.3 6.61 6.44 7a3.37 3.37 0 00-.94 2.58v2.87M9 20.027c-3 .973-5.5 0-7-3" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+        </a>
+        <a class="particles-icon" href="docs/"><svg width="24px" height="24px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" color="#000000"><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" /><path d="m 10.743752,9.2133219 c 0,0 -4.5125702,-1.1966648 -4.5125705,2.7561791 -3e-7,4.258147 4.5640215,2.715661 4.5640215,2.715661" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" /><path d="m 12.449181,9.1023598 c 0,0 2.137936,5.8060432 2.686032,5.8060432 0.511982,0 2.633605,-5.7961624 2.633605,-5.7961624" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" /></svg>
+        </a>
+      </div>
+    </div>
+    <div class="particles-scroll">
+      <a class="particles-icon" href="#scroll"><svg width="24px" height="24px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#000000"><path d="M6 9l6 6 6-6" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+      </a>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col col-sm-10 col-md-8 col-lg-6">
+        <article id="home">
+          <div id="scroll" class="toggle-bar">
+            <a id="theme-toggle" class="toggle-icon" onclick="modeSwitcher()"></a>
+          </div>
+
+          <main>
+            <h1 id="about">About</h1>
+
+            <p>Dristanta Silwal is an enthusiastic and motivated undergraduate student pursuing a bachelor’s degree in computer science, currently in the second semester. He is seeking a Software Engineering Internship opportunity to apply technical skills, coding proficiency, and problem-solving abilities in a dynamic and innovative environment.</p>
+
+            <p>Below are the websites and certificates of Dristanta Silwal:</p>
+            
+            <h2>Websites</h2>
+            <ul>
+              <li><a href="https://dristantasilwal.com.np">https://dristantasilwal.com.np</a></li>
+              <li><a href="https://dristantasilwal.hashnode.dev">https://dristantasilwal.hashnode.dev</a></li>
+              <li><a href="https://github.com/dristanta-silwal">https://github.com/dristanta-silwal</a></li>
+              <li><a href="https://linkedin.com/in/dristantasilwal/">https://linkedin.com/in/dristantasilwal/</a></li>
+              <li><a href="https://www.freecodecamp.org/Dristanta">https://www.freecodecamp.org/Dristanta</a></li>
+            </ul>
+
+            <h2>Certificates</h2>
+            <ul>
+              <li>FreeCodeCamp Certifications | FreeCodeCamp<br>Competence in working with APIs for enhanced functionality • Expertise in version control for efficient project management • Strong problem-solving abilities honed through practical experience.</li>
+              <li>IBM Data Science Certification | Coursera<br>Comprehensive understanding of key data science concepts and tools. • Proficiency in data analysis, data visualization, machine learning, and statistical analysis. • Mastery of programming languages such as Python and R for data manipulation and analysis. • Strong foundation in data science</li>
+              <li>Elements of AI | University of Helsinki<br>Engaging content and interactive exercises • Developed critical thinking and problem-solving skills • Equipped with a strong foundation in AI • Prepared to tackle real-world AI challenges.</li>
+              <li>Fundamentals of Digital Marketing | Google<br>Proficiency in creating effective online advertising campaigns using Google Ads. • Ability to conduct market research and analyze customer behavior using Google Analytics. • Valuable insights gained in search engine optimization (SEO), social media marketing, and email marketing.</li>
+            </ul>
+
+            <h2>Skills</h2>
+            <ul>
+              <li>Data analytics</li>
+              <li>Data Structures and Algorithms</li>
+              <li>Object-Oriented Programming (Python, C++)</li>
+              <li>Web Development (HTML, CSS, JavaScript)</li>
+              <li>Team player</li>
+              <li>Excellent time management skills</li>
+              <li>Version control (Git)</li>
+              <li>Scripting (Bash, Python)</li>
+              <li>Database systems (MySQL)</li>
+            </ul>
+
+          </main>
+          <footer>
+            <small>&copy; <time datetime="2024-01-22T11:22:36+01:00">2024</time> Dristanta Silwal. All rights reserved.</small>
+          </footer>
+
+        </article>
+
+      </div>
+    </div>
+  </div>
+  <script src="https://piazzai.github.io/cvless/assets/js/bootstrap.min.js"></script>
+
+  <script src="https://piazzai.github.io/cvless/assets/js/darkmode.js"></script>
+
+
+  <script src="assets/js/particles.min.js"></script>
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
